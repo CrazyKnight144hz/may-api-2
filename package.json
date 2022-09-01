@@ -1,0 +1,20 @@
+{
+  "name": "mayapi",
+  "version": "1.0.0",
+  "description": "May Studios Game API System => MayAPI",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "May Studios => Sven Fredrik Maibaum",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "uuid": "^8.3.2"
+  }
+}
